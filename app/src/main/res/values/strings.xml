@@ -1,0 +1,11 @@
+<resources>
+    <!-- Все названия в приложении. -->
+    <string name="app_name">Court Counter</string>
+    <string name="name_team_a">Team A</string>
+    <string name="name_team_b">Team B</string>
+    <string name="all_reset">Reset</string>
+    <string name="score_zero">0</string>
+    <string name="score_three">+3 points</string>
+    <string name="score_two">+2 points</string>
+    <string name="free_throw">Free throw</string>
+</resources>

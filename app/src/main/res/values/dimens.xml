@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="score_margin_bottom">24dp</dimen>
+    <dimen name="score_margin_top">16dp</dimen>
+    <dimen name="score_size">56sp</dimen>
+    <dimen name="button_margin_end">24dp</dimen>
+    <dimen name="button_margin_start">24dp</dimen>
+    <dimen name="button_layout_margin_bottom">16dp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_layout_margin_top">16dp</dimen>
+</resources>

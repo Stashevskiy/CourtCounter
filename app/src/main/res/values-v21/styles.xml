@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonStyle">
+        <!-- Стиль для кнопки при API выше 21. -->
+        <item name="android:background">@drawable/ripple</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:layout_marginEnd">@dimen/button_margin_end</item>
+        <item name="android:layout_marginStart">@dimen/button_margin_start</item>
+        <item name="android:layout_marginBottom">@dimen/button_layout_margin_bottom</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:fontFamily">Roboto medium</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/textColorButton</item>
+    </style>
+</resources>
